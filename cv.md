@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: CV
 subtitle: Look at my successes
 permalink: /cv/
